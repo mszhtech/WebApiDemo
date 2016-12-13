@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiWeb", "ApiWeb\ApiWeb.csproj", "{6B4B7F2C-1EB0-4852-A956-E14A57154C28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessWeb", "BusinessWeb\BusinessWeb.csproj", "{F6EA030F-F7DB-4DA3-B816-21AE5F585B95}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://wenyang0710.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ApiWeb\\ApiWeb.csproj
+		SccProjectName1 = ApiWeb
+		SccLocalPath1 = ApiWeb
+		SccProjectUniqueName2 = BusinessWeb\\BusinessWeb.csproj
+		SccProjectName2 = BusinessWeb
+		SccLocalPath2 = BusinessWeb
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B4B7F2C-1EB0-4852-A956-E14A57154C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B4B7F2C-1EB0-4852-A956-E14A57154C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B4B7F2C-1EB0-4852-A956-E14A57154C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B4B7F2C-1EB0-4852-A956-E14A57154C28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6EA030F-F7DB-4DA3-B816-21AE5F585B95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6EA030F-F7DB-4DA3-B816-21AE5F585B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6EA030F-F7DB-4DA3-B816-21AE5F585B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6EA030F-F7DB-4DA3-B816-21AE5F585B95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
